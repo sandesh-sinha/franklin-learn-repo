@@ -5,7 +5,7 @@ The tutorial guide to use this boilerplate code is present [here](https://main--
 - Preview: https://main--{repo}--{owner}.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
-## Installation
+## Installation 
 
 ```sh
 npm i
